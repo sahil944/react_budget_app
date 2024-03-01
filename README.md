@@ -1,4 +1,4 @@
-# React Budget Allocation App
+# Budget Allocation App
 
 Welcome to the React Budget Allocation App! This application helps you manage your budget by allowing you to add, delete, and update budget items.
 
